@@ -1,4 +1,6 @@
 .DS_Store
 *~$
+~$
 spark_fun/target
 scala_fun/target
+scala_fun/project/target/
